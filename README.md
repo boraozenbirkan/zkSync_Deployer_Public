@@ -6,6 +6,7 @@ Instal dependencies:
 - yarn install
 - yarn add hardhat
 - yarn add zksync-cli
+- yarn add @openzeppelin/contracts
 
 Then change configs for your contracts:
 - Add your contract in contracts folder
